@@ -17,6 +17,4 @@ function toggleMode() {
     img.setAttribute("alt", "Imagem de Lenicio Silva, olhando para um quadro, silhueta e fundo Roxo.")
    }
 
-   confirm
-
 }
