@@ -11,7 +11,7 @@
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.1);
     --surface-color-hover: rgba(255, 255, 255, 0.05);
-    --highlight-color-hover: rgba(255, 255, 255, 0.1);
+    --highlight-color-hover: rgba(255, 255, 255, 0.15);
     --footer-links-hover: rgb(233, 245, 65);
     --switch-bg-url: url(assets/MoonStars.svg);
 }
